@@ -1,0 +1,50 @@
+Header : Logo Home About-us Contact-us Events Gallery Sign-up Now
+--------------------------------------------------------------------------------
+Hero Section : 
+PitchLab: Bringing Ideas to Life PitchLab supports startups by
+offering essential funding and guidance. We organize events like start-up
+showdowns, speaker sessions, and hackathons, helping entrepreneurs connect with
+investors and access the resources they need to launch and grow their
+businesses. At PitchLab, innovation gets the support it deserves.
+
+<sign up>  <Contact us>
+
+Faces of Customers -- Supported 50+ Start-ups
+--------------------------------------------------------------------------------
+section featured :
+The Hindu
+Forbes
+The New York Times
+Businesses Insider
+--------------------------------------------------------------------------------
+Section Testimonials -
+Lisa Carter -
+"PitchLab was a game-changer for my startup, EcoNest, an eco-friendly home solutions company. Their startup showdown provided the funding and mentorship I needed to launch. The support and connections I gained were invaluable, helping EcoNest grow into a thriving business. Highly recommend PitchLab to any entrepreneur!"
+Sumit Arora -
+"Thanks to PitchLab, my tech startup, DataStream Analytics, secured early-stage funding and the strategic mentorship that made all the difference. The expert guidance during their speaker sessions helped refine my business model and scale faster than I anticipated. The connections I made through PitchLab’s events opened doors I never thought possible. A must for any tech entrepreneur!"
+Tima Mokshaw -
+"PitchLab gave my fashion startup, Urban Roots, the exposure and community support I needed to grow. The startup showdown provided crucial funding, but what really stood out was the collaborative environment they foster. The networking events connected me with like-minded entrepreneurs and potential partners. PitchLab is perfect for anyone looking to build strong industry relationships."
+-------------------------------------------------------------------------------
+section events :
+
+Register now to get notified for the latest Events -
+
+hackathon -- 
+Duration - 12 hours
+date - 26 October , 2024
+venue - NSUT mini audi
+meals - Refreshments , Lunch and Dinner
+Price-pool - $10000
+
+showdown - 
+date - 19 October , 2024
+venue - NSUT APJ Complex
+meals - Refreshments , Lunch and Dinner
+Duration - 15 hours
+Price-pool - $10000
+
+Speaker Session 
+Duration - 3 hours
+date - 27 October , 2024
+venue - NSUT mini Audi
+meals - Refreshments
